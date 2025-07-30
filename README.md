@@ -1,0 +1,2 @@
+# SkilloExercises
+Basic JAVA - exercises 
